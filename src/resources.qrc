@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="assets/cafe-ops.svg">assets/cafe-ops.svg</file>
+        <file alias="assets/dashboard.svg">assets/dashboard.svg</file>
+        <file alias="assets/sales.svg">assets/sales.svg</file>
+        <file alias="assets/inventory.svg">assets/inventory.svg</file>
+        <file alias="assets/receipts.svg">assets/receipts.svg</file>
+        <file alias="assets/waste.svg">assets/waste.svg</file>
+        <file alias="assets/recipes.svg">assets/recipes.svg</file>
+        <file alias="assets/alerts.svg">assets/alerts.svg</file>
+        <file alias="assets/purchase-orders.svg">assets/purchase-orders.svg</file>
+        <file alias="assets/reports.svg">assets/reports.svg</file>
+        <file alias="assets/users.svg">assets/users.svg</file>
+        <file alias="assets/panel-left.svg">assets/panel-left.svg</file>
+        <file alias="assets/panel-right.svg">assets/panel-right.svg</file>
+    </qresource>
+</RCC>
