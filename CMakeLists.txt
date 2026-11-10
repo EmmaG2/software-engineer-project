@@ -11,6 +11,8 @@ qt_add_executable(QtDesktopApp
     src/main.cpp
     src/mainwindow.cpp
     src/mainwindow.h
+    src/style/constants.cpp
+    src/style/constants.h
     src/resources.qrc
 )
 
